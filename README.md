@@ -1,16 +1,26 @@
-## Hi there 👋
+# Derek Knox
 
-<!--
-**derek-knox/derek-knox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer & UI/UX/IxD Designer
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+View my past [Work](https://derekknox.com/work) or check out the [Lab](https://derekknox.com/lab) for experimental creations.
+
+Nerd-out via my [Articles](https://derekknox.com/articles) or [Coding for Designers](http://www.codingfordesignersbook.com) book.
+
+If you tweet, I'm [@derekknox](https://twitter.com/derekknox).
+
+Enjoy.
+
+> **Note:** I often use [GitLab](https://gitlab.com/derek-knox) over GitHub
+
+## Links
+
+- [Website](https://derekknox.com/)
+- [Work](https://derekknox.com/work)
+- [Lab](https://derekknox.com/lab)
+- [Articles](https://derekknox.com/articles)
+- [Notes](https://derekknox.com/notes)
+- [Coding for Designers](http://www.codingfordesignersbook.com) — Book
+- [GitLab](https://gitlab.com/derek-knox)
+- [Twitter](https://twitter.com/derekknox)
