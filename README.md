@@ -16,7 +16,7 @@ Enjoy.
 
 ### Links
 
-- [Website](https://derekknox.com/)
+- [DerekKnox.com](https://derekknox.com/)
 - [Work](https://derekknox.com/work)
 - [Lab](https://derekknox.com/lab)
 - [Articles](https://derekknox.com/articles)
