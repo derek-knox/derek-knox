@@ -22,10 +22,10 @@ Enjoy.
 ### Links
 
 - [DerekKnox.com](https://derekknox.com/)
-- [Work](https://derekknox.com/work)
-- [Lab](https://derekknox.com/lab)
-- [Articles](https://derekknox.com/articles)
-- [Notes](https://derekknox.com/notes)
+    - [Work](https://derekknox.com/work)
+    - [Lab](https://derekknox.com/lab)
+    - [Articles](https://derekknox.com/articles)
+    - [Notes](https://derekknox.com/notes)
 - [Coding for Designers](http://www.codingfordesignersbook.com) — Book
 - [Hockey Copilot](https://hockeycopilot.com/) — Founder
 - [GitLab](https://gitlab.com/derek-knox)
