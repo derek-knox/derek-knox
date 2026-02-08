@@ -1,8 +1,8 @@
 # Derek Knox
 
-Senior Software Engineer & UI/UX/IxD Designer
+## Senior Software Engineer & UI/UX/IxD Designer
 
-## About
+### About
 
 View my past [Work](https://derekknox.com/work) or check out the [Lab](https://derekknox.com/lab) for experimental creations.
 
@@ -14,7 +14,7 @@ Enjoy.
 
 > **Note:** I often use [GitLab](https://gitlab.com/derek-knox) over GitHub
 
-## Links
+### Links
 
 - [Website](https://derekknox.com/)
 - [Work](https://derekknox.com/work)
