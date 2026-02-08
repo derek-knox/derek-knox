@@ -12,7 +12,8 @@ If you tweet, I'm [@derekknox](https://twitter.com/derekknox).
 
 Enjoy.
 
-> **Note:** I often use [GitLab](https://gitlab.com/derek-knox) over GitHub
+> [!NOTE]
+> I often use [GitLab](https://gitlab.com/derek-knox) over GitHub
 
 ### Links
 
