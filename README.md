@@ -27,6 +27,6 @@ Enjoy.
 - [Articles](https://derekknox.com/articles)
 - [Notes](https://derekknox.com/notes)
 - [Coding for Designers](http://www.codingfordesignersbook.com) — Book
-- [Hockey Copilot](https://hockeycopilot.com/) - Founder
+- [Hockey Copilot](https://hockeycopilot.com/) — Founder
 - [GitLab](https://gitlab.com/derek-knox)
 - [Twitter](https://twitter.com/derekknox)
